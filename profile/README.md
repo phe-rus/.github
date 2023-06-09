@@ -13,12 +13,12 @@
 ## Join the community
   
 <p align="center">
-  <a href="https://dahliaos.io/discord#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Discord.svg"></a>
-  <a href="https://dahliaos.io/twitter#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Twitter.svg"></a>
-  <a href="https://dahliaos.io/telegram#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Telegram.svg"></a>
-  <a href="https://dahliaos.io/instagram#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Instagram.svg"></a>
-  <a href="https://dahliaos.io/reddit#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Reddit.svg"></a>
-  <a href="https://dahliaos.io/facebook#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Facebook.svg"></a>
+  <a href="#"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Discord.svg"></a>
+  <a href="https://twitter.com/moluccus"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Twitter.svg"></a>
+  <a href="https://t.me/moluccus"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Telegram.svg"></a>
+  <a href="https://instagram.com.moluccus"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Instagram.svg"></a>
+  <a href="#"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Reddit.svg"></a>
+  <a href="#"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Facebook.svg"></a>
 <p>
   
 <p align="center">
