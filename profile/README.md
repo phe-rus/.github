@@ -47,26 +47,6 @@ class Person {
 [![la niina](https://img.shields.io/badge/la-niina-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=la-niina&color=green&show_icons=true)  ![Followers](https://img.shields.io/github/followers/la-niina)  ![Stars](https://img.shields.io/github/stars/la-niina?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 
-![la niina](https://github-readme-stats.vercel.app/api?username=la-niina&show_icons=true&hide_border=true&card_width=100&include_all_commits=true&count_private=true&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)![la niina](https://github-readme-streak-stats.herokuapp.com/?user=la-niina&show_icons=true&hide_border=true&card_width=100&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)<br/>
-
-# Used programming langauages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-niina&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=la_niina)](https://github.com/anuraghazra/github-readme-stats)
-
-# Some of my works
-
-<img src="https://raw.githubusercontent.com/la-niina/Queerr/main/public/queerr_home.png" style="max-width:100%;height:auto;">
-
-<!-- Transgender flag colors -->
-<img src="https://img.shields.io/badge/🏳️‍⚧️-Transgender%20Flag-5599ff.svg?style=flat-square" alt="Transgender Flag">
-
-<!-- Rainbow color -->
-<img src="https://img.shields.io/badge/🌈-Rainbow-000000.svg?style=flat-square" alt="Rainbow">
-
-<!-- Lesbian flag -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Lesbian_Pride_Flag_2019.svg?style=flat-square" alt="Lesbian Flag" width="25" height="15">
-
-
 # 🛠️ My tools , Mindset , Personality and Presentation
 
 <p align="start">
