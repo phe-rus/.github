@@ -5,7 +5,7 @@
 <h3 align="center">Hi there, Welcome to Moluccus</h3>
 
 <p align="center">
-  <samp>Transgender Gay Woman 🏳️‍⚧️🏳️‍🌈🇺🇬 | Software Developer | Full Stack Developer</samp>
+  <samp>Turning an idea into reality , shaping a reality into something better and making something better greater.</samp>
   <br>
  <samp>LGBTQIA+ Activist , advocate for software skills and human rights activist</samp>
 </p>
