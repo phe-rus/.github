@@ -1,7 +1,7 @@
  [![wakatime](https://wakatime.com/badge/user/0d79fbd8-f580-4eea-a144-895437e093b4.svg)](https://wakatime.com/@0d79fbd8-f580-4eea-a144-895437e093b4)
  
 <p align="center">
-  <img src="https://moluccus.vercel.app/logo.png" height="200" width="300" alt="Moluccus Logo">
+  <img src="https://moluccus.vercel.app/logo.png" height="200" width="200" alt="Moluccus Logo">
 </p>
 
 <h3 align="center">Hi there, Welcome to Moluccus</h3>
