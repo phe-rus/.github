@@ -6,7 +6,8 @@
 
 <p align="center">
   <samp>Turning an idea into reality , shaping a reality into something better and making something better greater.</samp>
-  <br>
+  <br/>
+  <br/>
  <samp>LGBTQIA+ Activist , advocate for software skills and human rights activist</samp>
 </p>
 
