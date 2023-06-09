@@ -47,11 +47,9 @@ class Person {
 [![la niina](https://img.shields.io/badge/la-niina-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=la-niina&color=green&show_icons=true)  ![Followers](https://img.shields.io/github/followers/la-niina)  ![Stars](https://img.shields.io/github/stars/la-niina?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 
-![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-niina&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-
 # Used programming langauages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-niina&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🛠️ My tools , Mindset , Personality and Presentation
