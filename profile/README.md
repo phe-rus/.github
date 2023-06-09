@@ -1,10 +1,10 @@
  [![wakatime](https://wakatime.com/badge/user/0d79fbd8-f580-4eea-a144-895437e093b4.svg)](https://wakatime.com/@0d79fbd8-f580-4eea-a144-895437e093b4)
  
 <p align="center">
-  <img src="https://moluccus.vercel.app/logo.png" height="300" width="300" alt="la niina">
+  <img src="https://moluccus.vercel.app/logo.png" height="300" width="300" alt="Moluccus Logo">
 </p>
 
-<h3 align="center">Hi there, I'm la niina</h3>
+<h3 align="center">Hi there, Welcome to Moluccus</h3>
 
 <p align="center">
   <samp>Transgender Gay Woman 🏳️‍⚧️🏳️‍🌈🇺🇬 | Software Developer | Full Stack Developer</samp>
