@@ -14,6 +14,6 @@
 ## Join the community
   
 <p align="center">
-  <a href="https://twitter.com/la-niina"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Twitter.svg"></a>
+  <a href="https://twitter.com/la_nniina"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Twitter.svg"></a>
   <a href="https://t.me/moluccus"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Telegram.svg"></a>
 <p>
