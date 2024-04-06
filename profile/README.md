@@ -8,7 +8,8 @@
   <samp>Turning an idea into reality , shaping a reality into something better and making something better greater.</samp>
   <br/>
   <br/>
- <samp>Pherus is a leading provider of software development services. We offer a wide range of services, including custom software development, frontend UI/UX design, backend development, template development, mobile, desktop, and web development, tutorials and resources, artificial intelligence solutions, and e-commerce development.</samp>
+ <samp>Pherus is a enigmatic technology company committed to fostering simplicity, knowledge sharing, and innovation in an inclusive environment. We believe that diversity of backgrounds and perspectives is essential to fuel creativity and drive progress. Our platform encompasses a wide array of services, to mention a few the include software solutions, opensource solutions, applications, cloud services, healthcare system, learning and mentorship in the technological sphere. With a holistic approach, Pherus also strives to address societal challenges, providing solutions to homelessness, loneliness, entertainment, technological access and creating a positive impact on communities.
+</samp>
 </p>
 
 ## Join the community
