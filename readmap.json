@@ -1,14 +1,26 @@
 [
   {
-    name: "Pherus-Health",
-    description: "Pherus Health is the bed rock of pherus with the aim to modernize and simplify the health sectory",
-    dateOfDev: "under active development",
-    theme: "Hoslistic Health Care With You In Mind"
+    "name": "Pherus-Health",
+    "description": "Pherus Health serves as the cornerstone of Pherus, endeavoring to modernize and streamline the healthcare sector. With a focus on holistic healthcare solutions, we aim to empower individuals to take control of their well-being.",
+    "dateOfDev": "under active development",
+    "theme": "Holistic Health Care With You In Mind"
   },
   {
-    name: "Pherus-Os",
-    description: "Pherus Operating system aim is still unclear and still not yet under development",
-    dateOfDev: "Future Idea",
-    theme: "Unknown Yet"
+    "name": "Pherus-Os",
+    "description": "Pherus Operating System is a future endeavor aimed at providing innovative solutions to enhance user experience and efficiency. While its development status is yet to be determined, it reflects our commitment to pushing the boundaries of technology.",
+    "dateOfDev": "Future Idea",
+    "theme": "Unknown Yet"
+  },
+  {
+    "name": "Pherus-Connect",
+    "description": "Pherus Connect is a groundbreaking platform designed to foster meaningful connections and collaboration. With intuitive features and seamless integration, it facilitates communication and knowledge sharing among users.",
+    "dateOfDev": "under active development",
+    "theme": "Connecting Communities Through Technology"
+  },
+  {
+    "name": "Pherus-Edu",
+    "description": "Pherus Edu is an educational initiative aimed at democratizing access to knowledge and fostering lifelong learning. Through innovative learning resources and mentorship programs, we empower individuals to thrive in the digital age.",
+    "dateOfDev": "under active development",
+    "theme": "Empowering Minds Through Education"
   }
 ]
