@@ -1,0 +1,14 @@
+[
+  {
+    name: "Pherus-Health",
+    description: "Pherus Health is the bed rock of pherus with the aim to modernize and simplify the health sectory",
+    dateOfDev: "under active development",
+    theme: "Hoslistic Health Care With You In Mind"
+  },
+  {
+    name: "Pherus-Os",
+    description: "Pherus Operating system aim is still unclear and still not yet under development",
+    dateOfDev: "Future Idea",
+    theme: "Unknown Yet"
+  }
+]
