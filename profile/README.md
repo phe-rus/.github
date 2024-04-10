@@ -5,12 +5,20 @@
 <h3 align="center">Hi there, Welcome to Pherus</h3>
 
 <p align="center">
-  <samp>Turning an idea into reality , shaping a reality into something better and making something better greater.</samp>
+  <a align="center" href="https://pherus.vercel.app">Official Webiste</a>
+</p>
+
+<p align="center">
+  <samp>Pherus - Empowering Innovation and Collaboration.</samp>
   <br/>
   <br/>
  <samp>Pherus is a enigmatic technology company committed to fostering simplicity, knowledge sharing, and innovation in an inclusive environment. We believe that diversity of backgrounds and perspectives is essential to fuel creativity and drive progress. Our platform encompasses a wide array of services, to mention a few the include software solutions, opensource solutions, applications, cloud services, healthcare system, learning and mentorship in the technological sphere. With a holistic approach, Pherus also strives to address societal challenges, providing solutions to homelessness, loneliness, entertainment, technological access and creating a positive impact on communities.
 </samp>
 </p>
+
+# 📈 my github stats
+
+[![Pherus](https://img.shields.io/badge/phe-rus-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=phe-rus&color=blue&show_icons=true)  ![Followers](https://img.shields.io/github/followers/phe-rus)  ![Stars](https://img.shields.io/github/stars/phe-rus?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 ## Join the community
   
