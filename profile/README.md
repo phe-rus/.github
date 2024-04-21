@@ -5,7 +5,7 @@
 <h3 align="center">Hi there, Welcome to Pherus</h3>
 
 <p align="center">
-  <a align="center" href="https://pherus.vercel.app">Official Webiste</a>
+  <a align="center" href="https://pherus.org">Official Webiste</a>
 </p>
 
 <p align="center">
