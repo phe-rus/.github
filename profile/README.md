@@ -12,7 +12,7 @@
   <samp>Pherus - Empowering Innovation and Collaboration.</samp>
   <br/>
   <br/>
- <samp>Pherus is a enigmatic technology company committed to fostering simplicity, knowledge sharing, and innovation in an inclusive environment. We believe that diversity of backgrounds and perspectives is essential to fuel creativity and drive progress. Our platform encompasses a wide array of services, to mention a few the include software solutions, opensource solutions, applications, cloud services, healthcare system, learning and mentorship in the technological sphere. With a holistic approach, Pherus also strives to address societal challenges, providing solutions to homelessness, loneliness, entertainment, technological access and creating a positive impact on communities.
+ <samp>Pherus is a enigmatic technology company committed to fostering simplicity, knowledge sharing, and innovation in an inclusive environment. We believe that diversity of backgrounds and perspectives is essential to fuel creativity and drive progress.
 </samp>
 </p>
 
