@@ -1,26 +1,26 @@
- [
-        {
-            tag: "Community",
-            title: "Pherus - Holistic Health system",
-            short_description: "The pherus holistic health system is currently under activity development and here our road maps.",
-            content: {
-                title: "Pherus - MVP Holistic Health System",
-                date_at: "Apr 24, 2024",
-                information: [
-                    {
-                        header: "Pherus - MVP",
-                        content: "The pherus health system is Pherus's mvp product which is aimed to be completed in the next 4 months period hopefully",
-                        image: [
-                            "https://raw.githubusercontent.com/phe-rus/pherus-drive/main/img/1.png",
-                            "https://raw.githubusercontent.com/phe-rus/pherus-drive/main/img/1.png",
-                        ]
-                    },
-                    {
-                        header: "Pherus - MVP",
-                        content: "The pherus health system is Pherus's mvp product which is aimed to be completed in the next 4 months period hopefully",
-                        image: []
-                    }
-                ]
-            }
-        },
-    ]
+[
+    {
+        "tag": "Community",
+        "title": "Pherus - Holistic Health system",
+        "short_description": "The pherus holistic health system is currently under activity development and here our road maps.",
+        "content": {
+            "title": "Pherus - MVP Holistic Health System",
+            "date_at": "Apr 24, 2024",
+            "information": [
+                {
+                    "header": "Pherus - MVP",
+                    "content": "The pherus health system is Pherus's mvp product which is aimed to be completed in the next 4 months period hopefully",
+                    "image": [
+                        "https://raw.githubusercontent.com/phe-rus/pherus-drive/main/img/1.png",
+                        "https://raw.githubusercontent.com/phe-rus/pherus-drive/main/img/1.png"
+                    ]
+                },
+                {
+                    "header": "Pherus - MVP",
+                    "content": "The pherus health system is Pherus's mvp product which is aimed to be completed in the next 4 months period hopefully",
+                    "image": []
+                }
+            ]
+        }
+    }
+]
