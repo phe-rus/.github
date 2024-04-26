@@ -1,26 +1,26 @@
-[
-  {
-    "name": "Pherus-Health",
-    "description": "Pherus Health serves as the cornerstone of Pherus, endeavoring to modernize and streamline the healthcare sector. With a focus on holistic healthcare solutions, we aim to empower individuals to take control of their well-being.",
-    "dateOfDev": "under active development",
-    "theme": "Holistic Health Care With You In Mind"
-  },
-  {
-    "name": "Pherus-Os",
-    "description": "Pherus Operating System is a future endeavor aimed at providing innovative solutions to enhance user experience and efficiency. While its development status is yet to be determined, it reflects our commitment to pushing the boundaries of technology.",
-    "dateOfDev": "Future Idea",
-    "theme": "Unknown Yet"
-  },
-  {
-    "name": "Pherus-Connect",
-    "description": "Pherus Connect is a groundbreaking platform designed to foster meaningful connections and collaboration. With intuitive features and seamless integration, it facilitates communication and knowledge sharing among users.",
-    "dateOfDev": "under active development",
-    "theme": "Connecting Communities Through Technology"
-  },
-  {
-    "name": "Pherus-Edu",
-    "description": "Pherus Edu is an educational initiative aimed at democratizing access to knowledge and fostering lifelong learning. Through innovative learning resources and mentorship programs, we empower individuals to thrive in the digital age.",
-    "dateOfDev": "under active development",
-    "theme": "Empowering Minds Through Education"
-  }
-]
+ [
+        {
+            tag: "Community",
+            title: "Pherus - Holistic Health system",
+            short_description: "The pherus holistic health system is currently under activity development and here our road maps.",
+            content: {
+                title: "Pherus - MVP Holistic Health System",
+                date_at: "Apr 24, 2024",
+                information: [
+                    {
+                        header: "Pherus - MVP",
+                        content: "The pherus health system is Pherus's mvp product which is aimed to be completed in the next 4 months period hopefully",
+                        image: [
+                            "https://raw.githubusercontent.com/phe-rus/pherus-drive/main/img/1.png",
+                            "https://raw.githubusercontent.com/phe-rus/pherus-drive/main/img/1.png",
+                        ]
+                    },
+                    {
+                        header: "Pherus - MVP",
+                        content: "The pherus health system is Pherus's mvp product which is aimed to be completed in the next 4 months period hopefully",
+                        image: []
+                    }
+                ]
+            }
+        },
+    ]
