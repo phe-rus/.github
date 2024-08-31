@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/161176162?s=200&v=4" height="200" width="200" alt="Pherus Logo">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/161176162?v=4&h=300&w=300&fit=cover&a=center&mask=circle&maxage=7d" height="300" width="300" alt="Pherus Logo">
 </p>
 
 <h3 align="center">Hi there, Welcome to Pherus</h3>
