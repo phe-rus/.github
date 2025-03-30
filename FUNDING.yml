@@ -1,4 +1,5 @@
 # These are supported funding model platforms
 
 github: [phe-rus, la-niina]
-custom: ["https://pay.chippercash.com/user/tag/laniina", pherus.org]
+# BuyMeACoffee
+custom: ["https://pay.chippercash.com/user/tag/laniina", "https://buymeacoffee.com/laniina"]
