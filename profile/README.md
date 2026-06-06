@@ -1,28 +1,117 @@
 <p align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/161176162?v=4&h=300&w=300&fit=cover&a=center&mask=circle&maxage=7d" height="300" width="300" alt="Pherus Logo">
+  <img src="https://avatars.githubusercontent.com/u/161176162?v=4" height="160" width="160" alt="Pherus Logo">
 </p>
 
-<h3 align="center">Hi there, Welcome to Pherus</h3>
+<h1 align="center">Pherus</h1>
 
 <p align="center">
-  <a align="center" href="https://pherus.org">Official Webiste</a>
+  <strong>We are a collective of like-minded individuals, burdened by curiosity & a drive to innovate.</strong>
+  <br />
+  <em>Architecting globally viable, technological ecosystems built to solve complex structural realities.</em>
 </p>
 
 <p align="center">
-  <samp>Pherus - Empowering Innovation and Collaboration.</samp>
-  <br/>
-  <br/>
- <samp>Pherus is a enigmatic technology company committed to fostering simplicity, knowledge sharing, and innovation in an inclusive environment. We believe that diversity of backgrounds and perspectives is essential to fuel creativity and drive progress.
-</samp>
+  <a href="https://pherus.org"><strong>Official Website ↗</strong></a> • 
+  <a href="mailto:support@pherus.org"><strong>Get in Touch ↗</strong></a>
 </p>
 
-# 📈 my github stats
+---
 
-[![Pherus](https://img.shields.io/badge/phe-rus-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=phe-rus&color=blue&show_icons=true)  ![Followers](https://img.shields.io/github/followers/phe-rus)  ![Stars](https://img.shields.io/github/stars/phe-rus?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+## 🚀 Executive Mission
 
-## Join the community
-  
-<p align="center">
-  <a href="https://twitter.com/la_nniina"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Twitter.svg"></a>
-  <a href="https://t.me/pheruss"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Telegram.svg"></a>
-<p>
+Pherus functions as a high-conviction product incubator and research-driven ecosystem. We systematically engineer platform-as-a-service architecture, identity systems, and infrastructure tools optimized for modern engineering demands, performance efficiency, and secure distributed scaling. 
+
+Our focus balances deep-tech architectural correctness with hyper-practical localized execution to handle demanding structural and payment landscapes.
+
+---
+
+## 🛠️ Ecosystem Layout
+
+<table align="left" valign="top" width="48%">
+  <tr>
+    <td bgcolor="#161b22" style="padding: 24px; border: 1px solid #30363d; border-radius: 8px;">
+      <div align="right"><a href="https://github.com/phe-rus/pass"><img src="https://img.shields.io/badge/Active-238636?style=flat-square" alt="Status"/></a></div>
+      <br />
+      <h3>🆔 Pass</h3>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;">
+        A high-performance, unified monolithic authentication and identity lifecycle service. Designed as the centralized security backbone powering all Pherus service planes.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="right" valign="top" width="48%">
+  <tr>
+    <td bgcolor="#161b22" style="padding: 24px; border: 1px solid #30363d; border-radius: 8px;">
+      <div align="right"><img src="https://img.shields.io/badge/In_Development-1f6feb?style=flat-square" alt="Status"/></div>
+      <br />
+      <h3>🪣 Bucket</h3>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;">
+        S3/R2-compatible distributed blob and file object storage. Optimizing global asset performance, caching architectures, and structural content delivery pipelines.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br clear="both" /><br />
+
+<table align="left" valign="top" width="48%">
+  <tr>
+    <td bgcolor="#161b22" style="padding: 24px; border: 1px solid #30363d; border-radius: 8px;">
+      <div align="right"><img src="https://img.shields.io/badge/Conceptual-8b949e?style=flat-square" alt="Status"/></div>
+      <br />
+      <h3>🩺 Pherus Health</h3>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;">
+        A modular, holistic healthcare management engine. Re-engineering administrative workflow primitives and patient records architecture for baseline operational environments.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="right" valign="top" width="48%">
+  <tr>
+    <td bgcolor="#161b22" style="padding: 24px; border: 1px solid #30363d; border-radius: 8px;">
+      <div align="right"><img src="https://img.shields.io/badge/Preparation-79c0ff?style=flat-square" alt="Status"/></div>
+      <br />
+      <h3>🌈 Queency</h3>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;">
+        A specialized community resource application layer designed for data security, peer-to-peer localization protocols, and secure network distribution.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br clear="both" />
+
+---
+
+## ⚡ Technical Foundations
+
+Our underlying system design principles optimize for lean, maintainable execution layers over surface-level feature sprawl:
+
+* **Monolithic Primitives:** Modular internal design boundaries inside cohesive single codebases to ensure rapid release cycles and zero network latency penalties.
+* **Modern Tooling Baselines:** High-throughput backend systems (TypeScript/Hono/Workers) paired with multi-tenant data structures, fast caching, and metadata-driven CMS architectures.
+* **Edge-Native Deployment:** Maximizing serverless computing paradigms and Cloudflare infrastructure to guarantee international availability at fractions of traditional hyperscaler costs.
+
+---
+
+## 📊 Analytics & Engagement
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=phe-rus&color=24292e&style=flat-square&label=Telemetry+Views" alt="Telemetry" />
+  <img src="https://img.shields.io/github/followers/phe-rus?style=flat-square&color=24292e&label=Network+Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/phe-rus?label=Ecosystem+Stars&style=flat-square&color=24292e" alt="Stars" />
+</p>
+
+## 🌐 Corporate Communications
+
+We welcome dialogs regarding strategic partnerships, capital allocation, and developer contributions.
+
+<p align="left">
+  <a href="https://x.com/la_nniina" target="_blank">
+    <img src="https://img.shields.io/badge/X_Corporate-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Account" />
+  </a>
+  <a href="https://t.me/pheruss" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_HQ-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Matrix" />
+  </a>
+</p>
