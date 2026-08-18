@@ -5,9 +5,9 @@
 <h1 align="center">Pherus</h1>
 
 <p align="center">
-  <strong>We are a collective of like-minded individuals, burdened by curiosity & a drive to innovate.</strong>
+  <strong>We are collective of like minded individuals driven by curiosity & a drive to innovate.</strong>
   <br />
-  <em>Architecting globally viable, technological ecosystems built to solve complex structural realities.</em>
+  <em>Let us show you our wildest dreams & imaginations, Now see the world through our eyes.</em>
 </p>
 
 <p align="center">
